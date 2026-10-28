@@ -7,6 +7,7 @@ function App() {
       <p>Tech Stack: React + Vite</p>
       <p>Status: Success</p>
       <p>Status: Jenkins Deployed</p>
+      <p>Added this extra line</p>
       <p>Status: Jenkins Deployed Updated @ 16-08-2026</p>
     </div>
   );
