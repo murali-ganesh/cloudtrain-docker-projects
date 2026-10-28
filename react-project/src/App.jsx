@@ -8,6 +8,7 @@ function App() {
       <p>Status: Success</p>
       <p>Status: Jenkins Deployed</p>
       <p>Added this extra line</p>
+      <p>Added Murali Ganesh</p>
       <p>Status: Jenkins Deployed Updated @ 16-08-2026</p>
     </div>
   );
